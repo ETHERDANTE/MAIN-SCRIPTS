@@ -37,8 +37,8 @@ local scriptUrls = {
     [16732694052] = "https://raw.githubusercontent.com/EtherbyteHub/Main-fisch-script/refs/heads/main/Main", -- Fisch
     [7215881810]  = "https://raw.githubusercontent.com/EtherbyteHub/Strongest-Punch-simulator-script/refs/heads/main/Strongest%20punch%20simulator%20script", -- No Limit Strongest Punch
     [10260193230] = "https://raw.githubusercontent.com/EtherbyteHub/Main-meme-sea-script/refs/heads/main/Main", -- Meme Sea
-    [87039211657390] = "https://raw.githubusercontent.com/ETHERDANTE/AHAHHA-FUCK/refs/heads/main/Protected_5046275329737509.txt", -- Arise Crossover
-    [128336380114944] = "https://raw.githubusercontent.com/ETHERDANTE/AHAHHA-FUCK/refs/heads/main/Protected_5046275329737509.txt" -- Arise Crossover
+    [87039211657390] = "https://raw.githubusercontent.com/ETHERDANTE/LMAO/refs/heads/main/Tester.lua", -- Arise Crossover
+    [128336380114944] = "https://raw.githubusercontent.com/ETHERDANTE/LMAO/refs/heads/main/Tester.lua" -- Arise Crossover
 }
 
 local function loadScript(url)
